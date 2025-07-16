@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Krishi Mitra**
 
-- 🌱 I’m currently learning **React.js and Node.js**
-
-- 👯 I’m looking to collaborate on **any front-end project**
-
-- 💬 Ask me about **react,mysql, data visulization**
+- 🌱 I’m learning **React.js**, **Node.js**, and exploring **full-stack development**
+  
+- 👯 I’m looking to collaborate on **frontend projects**, **data dashboards**, or **visualization tools**
+  
+- 💬 Ask me about **React**, **MySQL**, **JavaScript**, and **Data Visualization**
 
 - 📫 How to reach me **aniketshukladynamic@gmail.com**
 
