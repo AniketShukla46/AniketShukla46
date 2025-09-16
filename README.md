@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Shukla from Varanasi, Uttar Pradesh</h1>
-<h3 align="center">A passionate frontend developer and data visualizer from India</h3>
+<h3 align="center">A passionate AIML developer and data visualizer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketshukla46&label=Profile%20views&color=0e75b6&style=flat" alt="aniketshukla46" /> </p>
 
