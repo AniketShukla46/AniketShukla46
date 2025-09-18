@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketshukla46" alt="aniketshukla46" /></a> </p>
 
-- 🔭 I’m currently working on **Krishi Mitra**
+- 🔭 I’m 
 
-- 🌱 I’m learning **React.js**, **Node.js**, and exploring **full-stack development**
+- 🌱 I’m learning **Machine Leaning**, **GenAI**, and exploring **AIML**
   
-- 👯 I’m looking to collaborate on **frontend projects**, **data dashboards**, or **visualization tools**
+- 👯 I’m looking to collaborate on **frontend projects**, **ML**, or **visualization tools**
   
-- 💬 Ask me about **React**, **MySQL**, **JavaScript**, and **Data Visualization**
+- 💬 Ask me about **DSA**, **MySQL**, and **AIML**
 
-- 📫 How to reach me **aniketshukladynamic@gmail.com**
+- 📫 How to reach me **aniketshukla0406@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
